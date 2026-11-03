@@ -28,7 +28,7 @@ Trabaja con presupuesto, modificaciones y estados de ejecución del organismo. U
 
 1. Identifica ejercicio, entidad, estructura presupuestaria y fecha de corte.
 2. Relaciona crédito inicial y modificaciones con crédito vigente sin duplicar movimientos.
-3. Distingue las fases presentes en la fuente y aplica sus definiciones, sin equiparar compromiso y pago.
+3. Distingue las fases presentes en la fuente y aplica sus definiciones, sin equiparar compromiso y pago. Registra contradicciones entre fases y no las corrijas ni concluyas que son irregularidades sin aclaración.
 4. Calcula ratios con denominadores explícitos y explica variaciones documentadas.
 5. Entrega el análisis y salvedades sin emitir fiscalización o aprobación institucional.
 
